@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\bin\Release\netcoreapp2.1\ContactTracking.deps.json
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\bin\Release\netcoreapp2.1\ContactTracking.runtimeconfig.json
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\bin\Release\netcoreapp2.1\ContactTracking.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\bin\Release\netcoreapp2.1\ContactTracking.dll
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\bin\Release\netcoreapp2.1\ContactTracking.pdb
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.RazorAssemblyInfo.cache
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.RazorAssemblyInfo.cs
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.AssemblyInfo.cs
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.dll
+C:\Users\sergi\source\repos\ContactTracking\ContactTracking\obj\Release\netcoreapp2.1\ContactTracking.pdb
